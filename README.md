@@ -39,7 +39,7 @@ Este proyecto propone una forma experiencial de abordar el tema: en lugar de sol
 
 **Pasos:**
 - Clonar el repositorio: 
-https://github.com/EmiflP08/repositorio_TITULACION-_VR_FRAGMENTOS.git
+https://github.com/EmiflP08/repositorio_TITULACION-_VR_FRAGMENTOS_V4.git
 
 - Abrir el proyecto en Unity Hub 
 - Verificar configuración XR (XR Interaction Toolkit activo) 
